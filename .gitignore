@@ -1,0 +1,5 @@
+drf_venv/
+.vscode
+.pytest_cache
+**__pycache__/
+.env
